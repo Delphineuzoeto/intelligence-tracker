@@ -1,0 +1,285 @@
+company,year,keyword,mentions
+GIG Logistics,2019,otp,1
+GIG Logistics,2020,app,9
+GIG Logistics,2020,pickup,8
+GIG Logistics,2020,wallet,5
+GIG Logistics,2020,package,3
+GIG Logistics,2020,address,3
+GIG Logistics,2020,wrong,1
+GIG Logistics,2020,refund,1
+GIG Logistics,2020,payment issue,1
+GIG Logistics,2020,otp,1
+GIG Logistics,2020,no response,1
+GIG Logistics,2020,insurance,1
+GIG Logistics,2020,driver,1
+GIG Logistics,2020,delay,1
+GIG Logistics,2020,customer care,1
+GIG Logistics,2020,cancel,1
+GIG Logistics,2020,call,1
+GIG Logistics,2021,app,30
+GIG Logistics,2021,pickup,23
+GIG Logistics,2021,wallet,13
+GIG Logistics,2021,package,12
+GIG Logistics,2021,waybill,6
+GIG Logistics,2021,call,5
+GIG Logistics,2021,refund,4
+GIG Logistics,2021,customer care,4
+GIG Logistics,2021,address,4
+GIG Logistics,2021,verification,3
+GIG Logistics,2021,tracking,3
+GIG Logistics,2021,scam,3
+GIG Logistics,2021,payment issue,3
+GIG Logistics,2021,crash,3
+GIG Logistics,2021,slow,2
+GIG Logistics,2021,otp,2
+GIG Logistics,2021,delay,2
+GIG Logistics,2021,cancel,2
+GIG Logistics,2021,wrong,1
+GIG Logistics,2021,lost,1
+GIG Logistics,2022,app,39
+GIG Logistics,2022,wallet,16
+GIG Logistics,2022,package,14
+GIG Logistics,2022,pickup,13
+GIG Logistics,2022,delay,9
+GIG Logistics,2022,customer care,6
+GIG Logistics,2022,crash,5
+GIG Logistics,2022,call,5
+GIG Logistics,2022,waybill,4
+GIG Logistics,2022,address,4
+GIG Logistics,2022,verification,3
+GIG Logistics,2022,tracking,3
+GIG Logistics,2022,support,2
+GIG Logistics,2022,slow,2
+GIG Logistics,2022,scam,2
+GIG Logistics,2022,payment issue,2
+GIG Logistics,2022,otp,2
+GIG Logistics,2022,login,2
+GIG Logistics,2022,driver,2
+GIG Logistics,2022,wrong,1
+GIG Logistics,2022,rider,1
+GIG Logistics,2022,refund,1
+GIG Logistics,2022,no response,1
+GIG Logistics,2023,app,42
+GIG Logistics,2023,wallet,14
+GIG Logistics,2023,crash,14
+GIG Logistics,2023,pickup,6
+GIG Logistics,2023,package,5
+GIG Logistics,2023,customer care,5
+GIG Logistics,2023,wrong,4
+GIG Logistics,2023,waybill,4
+GIG Logistics,2023,verification,4
+GIG Logistics,2023,refund,3
+GIG Logistics,2023,payment issue,3
+GIG Logistics,2023,rude,2
+GIG Logistics,2023,otp,2
+GIG Logistics,2023,call,2
+GIG Logistics,2023,slow,1
+GIG Logistics,2023,rider,1
+GIG Logistics,2023,login,1
+GIG Logistics,2023,driver,1
+GIG Logistics,2023,delay,1
+GIG Logistics,2023,address,1
+GIG Logistics,2024,app,17
+GIG Logistics,2024,wallet,8
+GIG Logistics,2024,package,6
+GIG Logistics,2024,pickup,4
+GIG Logistics,2024,call,4
+GIG Logistics,2024,refund,3
+GIG Logistics,2024,wrong,2
+GIG Logistics,2024,waybill,2
+GIG Logistics,2024,payment issue,2
+GIG Logistics,2024,driver,2
+GIG Logistics,2024,delay,2
+GIG Logistics,2024,crash,2
+GIG Logistics,2024,verification,1
+GIG Logistics,2024,tracking,1
+GIG Logistics,2024,slow,1
+GIG Logistics,2024,rude,1
+GIG Logistics,2024,rider,1
+GIG Logistics,2024,otp,1
+GIG Logistics,2024,login,1
+GIG Logistics,2024,customer care,1
+GIG Logistics,2025,app,8
+GIG Logistics,2025,package,7
+GIG Logistics,2025,pickup,5
+GIG Logistics,2025,waybill,4
+GIG Logistics,2025,wallet,4
+GIG Logistics,2025,delay,3
+GIG Logistics,2025,wrong,2
+GIG Logistics,2025,slow,2
+GIG Logistics,2025,refund,2
+GIG Logistics,2025,tracking,1
+GIG Logistics,2025,stolen,1
+GIG Logistics,2025,scam,1
+GIG Logistics,2025,rude,1
+GIG Logistics,2025,rider,1
+GIG Logistics,2025,payment issue,1
+GIG Logistics,2025,no response,1
+GIG Logistics,2025,driver,1
+GIG Logistics,2025,customer care,1
+GIG Logistics,2025,call,1
+GIG Logistics,2026,package,3
+GIG Logistics,2026,app,3
+GIG Logistics,2026,waybill,2
+GIG Logistics,2026,wallet,2
+GIG Logistics,2026,scam,1
+GIG Logistics,2026,refund,1
+GIG Logistics,2026,no response,1
+GIG Logistics,2026,login,1
+GIG Logistics,2026,delay,1
+GIG Logistics,2026,customer care,1
+GIG Logistics,2026,call,1
+Gokada,2021,app,73
+Gokada,2021,rider,24
+Gokada,2021,otp,13
+Gokada,2021,wallet,8
+Gokada,2021,delay,8
+Gokada,2021,cancel,8
+Gokada,2021,address,8
+Gokada,2021,pickup,7
+Gokada,2021,wrong,3
+Gokada,2021,scam,3
+Gokada,2021,rude,3
+Gokada,2021,lost,3
+Gokada,2021,login,2
+Gokada,2021,driver,2
+Gokada,2021,crash,2
+Gokada,2021,tracking,1
+Gokada,2021,support,1
+Gokada,2021,refund,1
+Gokada,2021,no response,1
+Gokada,2021,customer care,1
+Gokada,2021,connection,1
+Gokada,2021,call,1
+Gokada,2022,app,59
+Gokada,2022,rider,26
+Gokada,2022,pickup,15
+Gokada,2022,address,9
+Gokada,2022,wallet,7
+Gokada,2022,otp,7
+Gokada,2022,wrong,5
+Gokada,2022,package,5
+Gokada,2022,delay,5
+Gokada,2022,call,5
+Gokada,2022,driver,4
+Gokada,2022,crash,4
+Gokada,2022,cancel,4
+Gokada,2022,support,3
+Gokada,2022,slow,2
+Gokada,2022,customer care,2
+Gokada,2022,refund,1
+Gokada,2022,lost,1
+Gokada,2022,connection,1
+Gokada,2023,app,26
+Gokada,2023,rider,10
+Gokada,2023,wallet,5
+Gokada,2023,pickup,5
+Gokada,2023,otp,3
+Gokada,2023,package,2
+Gokada,2023,delay,2
+Gokada,2023,crash,2
+Gokada,2023,wrong,1
+Gokada,2023,refund,1
+Gokada,2023,login,1
+Gokada,2023,customer care,1
+Gokada,2023,call,1
+Gokada,2023,address,1
+Gokada,2024,app,18
+Gokada,2024,pickup,5
+Gokada,2024,otp,4
+Gokada,2024,rider,3
+Gokada,2024,crash,2
+Gokada,2024,wallet,1
+Gokada,2024,driver,1
+Gokada,2024,delay,1
+Gokada,2024,cancel,1
+Gokada,2024,call,1
+Gokada,2025,app,5
+Gokada,2025,verification,2
+Gokada,2025,rider,2
+Gokada,2025,call,2
+Gokada,2025,package,1
+Gokada,2025,lost,1
+Gokada,2026,pickup,1
+Gokada,2026,connection,1
+Kwik Delivery,2019,call,1
+Kwik Delivery,2020,otp,8
+Kwik Delivery,2020,pickup,5
+Kwik Delivery,2020,app,4
+Kwik Delivery,2020,address,3
+Kwik Delivery,2020,verification,2
+Kwik Delivery,2020,wrong,1
+Kwik Delivery,2020,refund,1
+Kwik Delivery,2020,package,1
+Kwik Delivery,2021,otp,21
+Kwik Delivery,2021,app,13
+Kwik Delivery,2021,pickup,5
+Kwik Delivery,2021,verification,3
+Kwik Delivery,2021,rider,3
+Kwik Delivery,2021,call,3
+Kwik Delivery,2021,wallet,2
+Kwik Delivery,2021,package,2
+Kwik Delivery,2021,delay,2
+Kwik Delivery,2021,wrong,1
+Kwik Delivery,2021,no response,1
+Kwik Delivery,2021,login,1
+Kwik Delivery,2021,driver,1
+Kwik Delivery,2021,customer care,1
+Kwik Delivery,2021,address,1
+Kwik Delivery,2022,app,16
+Kwik Delivery,2022,pickup,10
+Kwik Delivery,2022,wallet,7
+Kwik Delivery,2022,otp,6
+Kwik Delivery,2022,verification,5
+Kwik Delivery,2022,scam,5
+Kwik Delivery,2022,rider,4
+Kwik Delivery,2022,delay,4
+Kwik Delivery,2022,package,3
+Kwik Delivery,2022,refund,2
+Kwik Delivery,2022,payment issue,2
+Kwik Delivery,2022,driver,2
+Kwik Delivery,2022,cancel,2
+Kwik Delivery,2022,slow,1
+Kwik Delivery,2022,no response,1
+Kwik Delivery,2022,customer care,1
+Kwik Delivery,2022,address,1
+Kwik Delivery,2023,app,7
+Kwik Delivery,2023,rider,3
+Kwik Delivery,2023,call,3
+Kwik Delivery,2023,pickup,2
+Kwik Delivery,2023,lost,2
+Kwik Delivery,2023,delay,2
+Kwik Delivery,2023,wallet,1
+Kwik Delivery,2023,verification,1
+Kwik Delivery,2023,support,1
+Kwik Delivery,2023,refund,1
+Kwik Delivery,2023,cancel,1
+Kwik Delivery,2024,app,5
+Kwik Delivery,2024,pickup,3
+Kwik Delivery,2024,scam,2
+Kwik Delivery,2024,wrong,1
+Kwik Delivery,2024,wallet,1
+Kwik Delivery,2024,verification,1
+Kwik Delivery,2024,slow,1
+Kwik Delivery,2024,refund,1
+Kwik Delivery,2024,package,1
+Kwik Delivery,2024,otp,1
+Kwik Delivery,2024,cancel,1
+Kwik Delivery,2025,app,8
+Kwik Delivery,2025,verification,5
+Kwik Delivery,2025,timeout,2
+Kwik Delivery,2025,slow,1
+Kwik Delivery,2025,refund,1
+Kwik Delivery,2025,otp,1
+Kwik Delivery,2025,login,1
+Kwik Delivery,2025,delay,1
+Kwik Delivery,2025,connection,1
+Kwik Delivery,2025,call,1
+Kwik Delivery,2025,address,1
+Kwik Delivery,2026,verification,1
+Kwik Delivery,2026,delay,1
+Kwik Delivery,2026,customer care,1
+Kwik Delivery,2026,app,1
+Topship,2024,package,1
+Topship,2024,call,1
+Topship,2026,wallet,1
