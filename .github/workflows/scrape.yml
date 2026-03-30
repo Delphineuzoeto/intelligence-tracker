@@ -1,0 +1,33 @@
+name: Weekly Logistics Scraper
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 8am
+  workflow_dispatch:       # Allows manual trigger from GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install google-play-scraper pandas
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push new data
+        run: |
+          git config --global user.email "delphineuzoeto@gmail.com"
+          git config --global user.name "Delphineuzoeto"
+          git add logistics_reviews_clean.csv logistics_reviews_raw.csv
+          git commit -m "automated weekly scrape $(date)" || echo "No changes to commit"
+          git push origin main
